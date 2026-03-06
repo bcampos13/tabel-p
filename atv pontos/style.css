@@ -1,0 +1,68 @@
+
+table{
+    height: 100vh;
+    width: 100%;
+    box-sizing: border-box;
+}
+.elemento{
+    width: 5%;
+    height: 8vh;
+    border: 3px solid #000
+}
+.legenda{
+    width: 8%;
+    height: 4vh;
+}
+h2{
+    margin: 0;
+}
+
+h4{
+margin: 0%;
+text-align: center;
+}
+
+#leg{
+    border: 8px solid #ffffff
+}
+.nmetais
+{
+    background-color: rgb(110, 207, 110);
+}
+
+.malcalinos
+{
+    background-color: rgb(228, 184, 102);
+}
+
+.smetais{
+background-color: #037474;
+}
+
+.ometais{
+background-color: #4a767c;
+}
+
+.lantanideos{
+    background-color: #65b7fa;
+}
+
+.gasn{background-color: #2256ff;
+}
+
+.alcalinoter{
+background-color: #eff307;
+}
+
+.halogenios{
+background-color: #a4f7f2;
+}
+
+.metaist{
+background-color: #ec9282e8;
+}
+
+.actinideos{
+background-color: #e56af0;
+}
+    
